@@ -8,7 +8,7 @@ The main purpose of this small piece of software is to practice using Git, conne
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo](https://youtu.be/qLq0eHPLXug)
 
 # Development Environment
 
